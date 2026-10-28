@@ -1,0 +1,6 @@
+{
+  "name": "SciCalc Pro",
+  "description": "Professional scientific calculator with comprehensive functions, expressions parser, DEG/RAD modes, and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
